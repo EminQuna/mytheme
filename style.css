@@ -1,0 +1,260 @@
+
+header {
+    width:100%;
+   position: relative;
+    height:500px;
+}
+
+
+.banner-h1 {
+   
+font-size: 1.8rem;
+   font-weight: 400;
+   line-height: normal;
+   padding: 2.4rem 0;
+   text-align:left;
+}
+
+caption1 {
+   color: #fff;
+   position: relative;
+   z-index:1;
+}
+
+
+.header-link{
+   color:white;
+   text-decoration: underline;
+
+}
+
+
+
+.text-logo {
+   color: white;
+   
+
+}
+
+.logo {
+   height: 50px;
+   width: 49px;
+   margin: 0 0 16px 0;
+}
+
+.navbar-nav > .nav-item > .nav-link {
+   font-size: 15px;
+   padding-top:0;
+   padding-bottom: 70px;
+   padding-left: 20px;
+   padding-right: 20px;
+   color: #fff;
+   font-weight: 400;
+   opacity: 1 !important;
+   margin-left:150px
+}
+
+.welcome {
+   color:black;
+}
+
+.overlay {
+   position: absolute;
+   left: 0;
+   right: 0;
+   top: 0;
+   bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+.container {
+   width:100%;
+}
+
+.box {
+ 
+   background-color: #e0eaea;
+   width:100%;
+   height:100px;
+}
+
+
+
+.box2 {
+    line-height: 14px;
+    padding-top: 30px;
+}
+
+
+
+.box3 {
+    line-height: 13px;
+    padding-top: 13px;
+}
+
+.ija {
+	color:#5199FF;
+}
+
+.omtale{
+		color:#5199FF;
+}
+
+.div-omtale {
+text-align: center;
+padding-top: 30px;
+}
+
+.div-btn {
+	text-align: center;
+padding-top: 30px;
+padding-right:50px;
+}
+
+.btn-square {
+	background-color: white;
+	border-color:none;
+	font-family: "Rubik",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif;
+    font-weight: 500;
+    color: #08202e;
+}
+   
+
+
+  
+
+
+
+
+.btn-freespin {
+
+	background-color: #00889e;
+    color: #fff;
+    text-decoration: none;
+}
+ .btn-freespin:hover{
+
+ 	background-color: #00889e;
+    text-decoration: none;
+        color: #fff;
+
+}
+
+.btn-2 {
+
+	    background-color: white;
+    color: black;
+}
+
+.btn-2:hover {
+
+	background-color: #00889e;
+    color: #fff;
+    text-decoration: none;
+
+}
+
+	
+
+body {
+	background-color:#F4F9F8;
+}
+
+
+
+
+
+
+
+.footer-1 {
+     
+   background-color: white;
+   height:500px;
+   padding-top:20px;
+   
+
+}
+
+
+.card1{
+
+ background: #fff;
+  box-shadow: 0 0.4rem 1.6rem 0 rgba(8,32,46,.15);
+  border-radius: .4rem;
+}
+
+
+.form-control{
+ padding: 1.2rem;
+  border: 0;
+  border-radius: .5rem;
+  background-color: #f3f2f2;
+  font-size: 1.4rem;
+
+}
+
+.a-footer {
+ color: #6b7982;
+  text-transform: none;
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.btn-form{
+   padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+.menu-item{
+   
+   text-align: center;
+   margin-right:50px;
+   margin-left: auto;
+   
+}
+
+
+.menu-item, a{
+   color:white;
+  font-size: 20px;
+  font-weight: 400px;
+  text-decoration:none;
+   
+}
+
+
+.menu-item, a:hover{
+   color:white;
+  font-size: 20px;
+  font-weight: 400px;
+  text-decoration:none;
+
+   
+}
+ 
+.a-footer:hover {
+   
+      color: #6b7982;
+       text-transform: none;
+       font-size: 0.8rem;
+       font-weight: 400;
+       text-decoration: underline;
+}
