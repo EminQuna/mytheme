@@ -15,11 +15,7 @@ font-size: 1.8rem;
    text-align:left;
 }
 
-caption1 {
-   color: #fff;
-   position: relative;
-   z-index:1;
-}
+
 
 
 .header-link{
@@ -143,7 +139,7 @@ padding-right:50px;
 }
  .btn-freespin:hover{
 
- 	background-color: #00889e;
+ 	background-color: #9c9c9c;
     text-decoration: none;
         color: #fff;
 
@@ -210,9 +206,10 @@ body {
 }
 
 .btn-form{
-   padding-right: 40px;
-    padding-left: 40px;
-    padding-top: 10px;
+   padding-right: 20px;
+   padding-left: 28px;
+   text-align: center;
+   padding-top: 10px;
     padding-bottom: 10px;
 }
 
@@ -257,4 +254,29 @@ body {
        font-size: 0.8rem;
        font-weight: 400;
        text-decoration: underline;
+}
+
+
+.text-a{
+   color: #00889e;
+}
+
+.text-a:hover{
+   color: #00889e;
+   text-decoration: underline;
+}
+
+.btn-danger{
+   padding-left: 8px;
+}
+
+.under-button-link{
+   color: #00889e;
+   font-size: 15px;
+}
+
+.under-button-link:hover{
+   color: #00889e;
+   font-size: 15px;
+   text-decoration: underline;
 }

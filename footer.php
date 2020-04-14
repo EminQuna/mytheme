@@ -98,26 +98,26 @@
                     </div>
 
                     <div class="row">
-                        <div class="col-10" style="margin-left: 20px;">
+                        <div class="col-10" style="margin-left: 23px;">
                             <div class="form-group">
                                 <input class="form-control" placeholder="Navn" name="name" type="text">
                             </div>
                         </div>
 
 
-                        <div class="col-10" style="margin-left: 20px;">
+                        <div class="col-10" style="margin-left: 23px;">
                             <div class="form-group">
                                 <input class="form-control" placeholder="E-Post" name="email" type="text">
                             </div>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-10" style="text-align: center;">
+                        <div class="col-10" style="text-align: center; padding-left: 50PX;">
                             <button class="btn btn-danger btn-form" type="submit"> <span class="text"><strong>Hent dine freespins</strong></span> </button>
                         </div>
 
-                        <div class="col-10" style="padding-top: 20px;">
-                            <p style="text-align:center;">Ved å abonnere bekrefter du at du er over 18 år og at du godkjenner <a href="#">personvernerklæringen vår.<a></p>
+                        <div class="col-10" style="padding-top: 20px;padding-top: 20px;padding-left: 85px;text-align: center;">
+                            <p>Ved å abonnere bekrefter du at du er over 18 år og at du godkjenner <a href="#" class="under-button-link">personvernerklæringen<a> vår.</p>
                         </div>
                     </div>
 

@@ -27,7 +27,7 @@ register_nav_menus(
         'top-menu' => __('Top Menu', 'theme'),
         'footer-menu' => __('Footer Menu', 'theme'),
     )
-    );
+);
 
 
 function loadjs()
@@ -38,3 +38,11 @@ function loadjs()
 }
 
 add_action('wp_enqueue_scripts', 'loadjs');
+
+
+
+add_theme_support('custom-background');
+add_theme_support('custom-header');
+add_theme_support('post-thumbnails');
+add_theme_support('post-formats',array('aside','image','video'));
+add_theme_support('html5',array('search-form'));

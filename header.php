@@ -45,7 +45,7 @@
         </nav>
 
 
-        <div class="carousel-caption align-items-center caption1" style="text-align:left">
+        <div class="carousel-caption align-items-center" style="text-align:left">
             <h1 class="banner-h1"><strong>Freespins</strong></h1>
             <p> <strong>For mange av oss casino spillere er freespins populært og her hos oss på <a class="header-link" href="#">Norske Spilleautomater</a>
                     får du en oppdatert oversikt over hvor du kan sikre deg gratisrunder akkurat nå.
